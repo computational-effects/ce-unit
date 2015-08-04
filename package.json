@@ -1,0 +1,20 @@
+{
+  "name": "ce-unit",
+  "version": "1.0.0",
+  "description": "Computational effect - unit",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "computational effect",
+    "unit"
+  ],
+  "author": "Hardy Jones <jones3.hardy@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ce-mixin": "^1.0.2",
+    "ce-stringify": "^1.0.1",
+    "pbp": "^1.0.0"
+  }
+}
